@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FTRM227
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, and stuff
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord: LaFFrel#2678
 
